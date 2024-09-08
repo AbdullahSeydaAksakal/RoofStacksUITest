@@ -1,29 +1,25 @@
 # RoofStacksUITest
-Bu proje istenilen senaryonun yapıldığı test otomasyon ui projesidir.   <br /><br />
+This is a project where you apply for the Tester job posting at Roof Stack Software Company and send your CV.   <br /><br />
 
-## Proje Özellikleri
-* Maven Entegregreli bir projedir.
-* Java dilinde yazılmıştır
+## Project Features
+* It is a Maven Integrated project.
+* It is written in Java
 * Url: https://roofstacks.com/
-* Selenium Web driver ve ChromeWebDriver kütüphaneleri kullanılmıştır
-* Assertion için JUnit kütüphanesi kullanılmakta.
-* Geliştirilmiş Class yapısıyla kurulmuştur. 
-* İlerleyen sürümlerde, Güvenlik, Seo, APi, Yük ve Strees testi gibi katmanlarla proje geliştirilecektir.
-* Docker ve Container mimarileri kullanılarak birbirimden bağımsız işletim sistemleri ve tarayıcıları üzerinde CrossBrowser Testler yapılacaktır
-* Veritabanı Mimarisi eklenecektir.
-* Projenin koşulduğu video eklenmiştir.
+* Selenium Web driver and ChromeWebDriver libraries are used
+* JUnit library is used for Assertion.
+* It is established with an improved Class structure.
+* In later versions, the project will be developed with layers such as Security, SEO, APi, Load and Streses testing.
+* CrossBrowser Tests will be performed on independent operating systems and browsers using Docker and Container architectures
+* Database Architecture will be added.
+* The video of the project has been added.
 
-
-
-
-
-## Task İsterleri
-1. Google’a “Roof Stack Yazılım” şeklinde arama yapılır.
-2. Sonuçlar listesinden https://roofstacks.com adresine girilir.
-3. Kariyer sayfasına gidilir.
-4. İlanlar arasından Product pozisyonu seçilir.
-5. Lead Product Tester seçilir.
-6. Lead Product Tester sayfasında sayfanın gelip gelmediği, doğruluğu kontrol edilir.
-7. SendCV butonuna basarak bir dosya upload edelim
-8. Eposta adresine e-mail adresinizi girelim
-9. Sample bir dosya yükleyelim ve upload butonuna basarak dosyayı paylaşalım
+## Task Requests
+1. Search Google as “Roof Stack Software”.
+2. Enter https://roofstacks.com from the results list.
+3. Go to the career page.
+4. Select the Product position from the advertisements.
+5. Select Lead Product Tester.
+6. Check the accuracy of the page on the Lead Product Tester page.
+7. Let's upload a file by pressing the SendCV button
+8. Enter your e-mail address in the e-mail address
+9. Let's upload a sample file and share the file by pressing the upload button
